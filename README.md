@@ -59,12 +59,12 @@
 **使用技術：** Python, AWS (EC2, ECS, Lambda, API Gateway, Cognito), MuleSoft
 
 #### プロジェクト2：大手企業向けWebポータル開発・運用
-- Javaによるバックエンド開発
+- Pythonによるバックエンド開発
 - Vue.js2によるフロントエンド開発
 - バッチ処理の設計・実装
 - アジャイル開発手法による短期サイクルでの開発
 
-**使用技術：** Vue.js2, Java, Spring Boot, MySQL, DynamoDB, AWS, Jenkins
+**使用技術：** Vue.js2, Python, FastAPI, MySQL, DynamoDB, AWS, Jenkins
 
 ---
 
