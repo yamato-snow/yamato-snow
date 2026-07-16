@@ -46,10 +46,6 @@
 - Google Spreadsheet・GAS活用による業務自動化
 - 現場の作業効率を大幅に改善
 
-#### 4. **外注ベンダーマネジメント**
-- 要件定義・進捗管理・レビュー・検収
-- コスト交渉・機器選定
-
 **使用技術：** Python, Next.js, TypeScript, Google Spreadsheet/GAS, NAS Server, WiFi Infrastructure
 
 ---
